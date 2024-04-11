@@ -26,7 +26,7 @@ function createHeader() {
     const header = document.createElement('header');
     header.innerHTML = `
         <div class="container">
-            <h1>Retro Products</h1>
+            <h1>Dhaka Products</h1>
             <nav>
                 <ul>
                     <li><a href="index.html">Home</a></li>
